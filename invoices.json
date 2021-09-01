@@ -7,7 +7,9 @@
 	"invoice": [
 		{
 			"id": "6",
-			"recipient": {},
+			"recipient": {
+				"name": "Huehue"
+			},
 			"currency": "$",
 			"services": [
 				{}
